@@ -8,7 +8,7 @@
 def matrix_check_sum(matrix)
   i = 0
 
-  matrix.length.times do |j|
+  matrix.length.times do
     sum = 0
 
     matrix.each do |array|
